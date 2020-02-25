@@ -1,4 +1,4 @@
-# Croc Hunter - The game!
+# Croc Hunter - The game!  funny
 
 For those that have dreamt to hunt crocs
 
