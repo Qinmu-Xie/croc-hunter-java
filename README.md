@@ -1,5 +1,5 @@
 # Croc Hunter - The game!  funny
-
+change readme
 For those that have dreamt to hunt crocs
 
 # Usage
